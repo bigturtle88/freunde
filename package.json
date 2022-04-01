@@ -1,0 +1,28 @@
+{
+  "name": "freunde",
+  "version": "1.0.0",
+  "description": "invite linkedin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigturtle88/freunde.git"
+  },
+  "author": "Vyacheslav B",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bigturtle88/freunde/issues"
+  },
+  "homepage": "https://github.com/bigturtle88/freunde#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^2.0.0",
+    "puppeteer-core": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1"
+  }
+}
